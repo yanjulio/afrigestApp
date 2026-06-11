@@ -1,8 +1,0 @@
-/*.application
-  Content-Type: application/x-ms-application
-
-/*.manifest
-  Content-Type: application/x-ms-manifest
-
-/*.deploy
-  Content-Type: application/octet-stream
